@@ -5,4 +5,5 @@
 4-listmorefiles: a script used to display the current directory contents, including hidden file in a long format.
 5-listfilesdigitonly: a script used to display current direcotry contents with user and group IDs displayed in numerically, hidden files in a long format.
 6-firstdirectory: a script used to create directory in /tmp.
-7-movethatfile: a script used to move a file 'betty' from '/tmp' directory to a '/tmp/my_first_directory' direcotry.
+7-movethatfile: a script used to move a file 'betty' from '/tmp' directory to a '/tmp/my_first_directory' directory.
+8-firstdelete: a script used to delete the file 'betty' in the '/tmp/my_first_directory' directory.
