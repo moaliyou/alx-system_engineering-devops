@@ -11,3 +11,4 @@
 10-back: a script used to change the working directory to previous one.
 11-lists: a script used to list all files in the current directory, parent directory and /boot directory.
 12-file_type: a script prints type of the file.
+13-symbolic_link: a script used to create symbolic link in the current working directory.
