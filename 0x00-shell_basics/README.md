@@ -10,3 +10,4 @@
 9-firstdirdeletion: a script used to remove the directory 'my_first_directory' in /tmp.
 10-back: a script used to change the working directory to previous one.
 11-lists: a script used to list all files in the current directory, parent directory and /boot directory.
+12-file_type: a script prints type of the file.
