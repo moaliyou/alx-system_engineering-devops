@@ -12,3 +12,4 @@
 11-lists: a script used to list all files in the current directory, parent directory and /boot directory.
 12-file_type: a script prints type of the file.
 13-symbolic_link: a script used to create symbolic link in the current working directory.
+14-copy_html: a script used to copy all HTML files from the current working directory to parent of working directory.
