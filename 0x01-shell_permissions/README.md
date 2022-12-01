@@ -6,3 +6,5 @@ SHELL PERMISSIONS
 3-new_owner: a script used to change the file permission from the owner to a user.
 4-empty: a script used to create an empty file.
 5-execute: a script used to add execution permission to the owner file.
+6-multiple_permissions: a script used to add execute permission to ther owner and group owner's file and read permission to others.
+
