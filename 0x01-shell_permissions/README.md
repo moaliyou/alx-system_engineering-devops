@@ -9,4 +9,5 @@ SHELL PERMISSIONS
 6-multiple_permissions: a script used to add execute permission to ther owner and group owner's file and read permission to others.
 7-everybody: a script used to add execute permission to everybody.
 8-James_Bond: a script used to give all permissions to others group.
+9-John_Doe: a script used to set the mode of a file.
 
