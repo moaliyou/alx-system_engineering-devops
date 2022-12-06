@@ -5,4 +5,5 @@ Shell Redirections
 2-hellofile: a script used to display the contents of file.
 3-twofiles: a script used to display the content of 2 files.
 4-lastlines: a script used to display last line of the file content.
+5-firstlines: a script used to display first 10 lines of the file content.
 
