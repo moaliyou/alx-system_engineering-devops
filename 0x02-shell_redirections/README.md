@@ -8,3 +8,5 @@ Shell Redirections
 5-firstlines: a script used to display first 10 lines of the file content.
 6-third_line: a script used to display the 3rd line of a file.
 7-file: a script creates file.
+8-cwd_state: a script that writes commands into a file.
+
